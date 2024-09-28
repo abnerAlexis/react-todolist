@@ -1,3 +1,7 @@
+Deployed on;  
+`https://reactjs-app-todos.netlify.app/`
+
+
 Install VS Code ES7+ React/Redux/React-Native/JS snippets by dscnajder for shortcut `rfce` to create component function
 
 ## font-awesome use
